@@ -1,0 +1,1 @@
+"order_id","customer_id","employee_id","order_date","purchase_order_number","ship_date","shipping_method_id","freight_charge","taxes","payment_received","comment","created_at","updated_at","deleted_at"
